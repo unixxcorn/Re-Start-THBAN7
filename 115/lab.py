@@ -1,12 +1,11 @@
 import random
 
-# For Loop Example
-
+# For Loop Example, Definite 
 for i in range(1, 10 + 1):
     print("counting : " + str(i))
 
 
-# While Loop Example
+# While Loop Example, Infinite
 print("Welcome to Guess the Number!")
 print("The rules are simple. I will think of a number, and you will try to guess it.")
 
